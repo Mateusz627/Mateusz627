@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mateusz627
 - 👀 I’m interested in pogramming and motorcycles
 - 🌱 I’m currently learning React, Node.js
-- 📫 How to reach me https://www.linkedin.com/in/mateusz-siuda/ || https://mateusz-portfolio-six.vercel.app/
+- 📫 How to reach me https://mateusz-portfolio-six.vercel.app/ || https://www.linkedin.com/in/mateusz-siuda/ 
 
 
 
